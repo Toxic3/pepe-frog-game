@@ -1,4 +1,4 @@
-// Frog Game Project - By Ethan Champion
+// Frog Game Project - By Toxic
 
 // Position variables
 let gameChar_x;
